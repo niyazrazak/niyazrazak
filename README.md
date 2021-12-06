@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niyazrazak
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning Python Full Stack and Data Analyst
+- 🌱 I’m currently learning Python Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
