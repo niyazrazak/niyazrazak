@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niyazrazak
 - 👀 I’m interested in coding
-- 🌱 I’m currently working ERPNext Developer
+- 🌱 I’m currently working as ERPNext Developer
 - 📫 How to reach me niyasibnurazak@gmail.com
 
 <!---
