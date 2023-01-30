@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyazrazak&layout=compact&theme=aura" width="48%">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=niyazrazak&theme=aura&langs_count=6">
 </div>
 
 
@@ -51,7 +50,6 @@
   
   <p></p>
   <p><b>Frameworks & Libraries:&nbsp;&nbsp;</b></p>
-  <img src="https://img.shields.io/badge/react-212121.svg?&style=for-the-badge&logo=react&logoColor=79d8f7" height="25"/>
   <img src="https://img.shields.io/badge/vue-23303d.svg?&style=for-the-badge&logo=vuedotjs&logoColor=79d8f7" height="25"/>
   <img src="https://img.shields.io/badge/django-092d1f.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/jquery-1c2c38.svg?&style=for-the-badge&logo=jquery&logoColor=0863a2" height="25"/>
