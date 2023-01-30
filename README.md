@@ -80,14 +80,8 @@
   <img src="https://img.shields.io/badge/vscode-006eab.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/postman-f26734.svg?&style=for-the-badge&logo=postman&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/yarn-2a87b2.svg?&style=for-the-badge&logo=yarn&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/termux-000.svg?&style=for-the-badge&logo=termux&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/firefox-f53c23.svg?&style=for-the-badge&logo=firefox&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/CodeCademy-131b37.svg?&style=for-the-badge&logo=codecademy&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Udemy-9c32e4.svg?&style=for-the-badge&logo=udemy&logoColor=000" height="25"/>
   <img src="https://img.shields.io/badge/spotify-1ccc5b.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Wakatime-000.svg?&style=for-the-badge&logo=wakatime&logoColor=white" height="25"/>
-
   <p></p>
   <p><b>OS&nbsp;&nbsp;</b></p>
   <img src="https://img.shields.io/badge/Ubuntu-d24413.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
