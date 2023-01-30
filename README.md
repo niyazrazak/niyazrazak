@@ -56,23 +56,14 @@
   
   <p></p>
   <p><b>Ui, Design, Editing:&nbsp;&nbsp;</b></p>
-  <img src="https://img.shields.io/badge/Figma-2e2e37.svg?&style=for-the-badge&logo=figma&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/bootstrap-53397a.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/tailwindcss-06b0cd.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/materialui-0284ca.svg?&style=for-the-badge&logo=materialdesign&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/CSS3-2449d8.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/sass-c76395.svg?&style=for-the-badge&logo=sass&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Canva-5636e1.svg?&style=for-the-badge&logo=canva&logoColor=fff" height="25"/>
-  <img src="https://img.shields.io/badge/photoshop-08004c.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=2fa3f7" height="25"/>
-  <img src="https://img.shields.io/badge/Premiere Pro-280031.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=de71f2" height="25"/>
-  <img src="https://img.shields.io/badge/Lightroom-001c33.svg?&style=for-the-badge&logo=adobelightroom&logoColor=2f9ff2" height="25"/>
   
   <p></p>
   <p><b>Databases:&nbsp;&nbsp;</b></p>
-  <img src="https://img.shields.io/badge/mongodb-118b4b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/mysql-42759c.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/postgres-30628a.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Firebase-ea7b0b.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/SQLite-033753.svg?&style=for-the-badge&logo=sqlite&logoColor=1078c5" height="25"/>
   
   <p></p>
