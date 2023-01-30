@@ -51,15 +51,7 @@
   <img src="https://img.shields.io/badge/react-212121.svg?&style=for-the-badge&logo=react&logoColor=79d8f7" height="25"/>
   <img src="https://img.shields.io/badge/vue-23303d.svg?&style=for-the-badge&logo=vuedotjs&logoColor=79d8f7" height="25"/>
   <img src="https://img.shields.io/badge/django-092d1f.svg?&style=for-the-badge&logo=django&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/react native-212121.svg?&style=for-the-badge&logo=react&logoColor=79d8f7" height="25"/>
-  <img src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/node-3e843d.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/express-212121.svg?&style=for-the-badge&logo=express&logoColor=79d8f7" height="25"/>
-  <img src="https://img.shields.io/badge/flask-527c8d.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/laravel-e9372c.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/jquery-1c2c38.svg?&style=for-the-badge&logo=jquery&logoColor=0863a2" height="25"/>
-  <img src="https://img.shields.io/badge/electron-292c37.svg?&style=for-the-badge&logo=electron&logoColor=93d7e6" height="25"/>
-  <img src="https://img.shields.io/badge/telegraf-0d151f.svg?&style=for-the-badge&logo=telegram&logoColor=d94121" height="25"/>
   <img src="https://img.shields.io/badge/frappe-2490ef.svg?&style=for-the-badge&logo=frappe&logoColor=white" height="25"/>
   
   <p></p>
