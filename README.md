@@ -69,10 +69,6 @@
   <p></p>
   <p><b>Hosting:&nbsp;&nbsp;</b></p>
   <img src="https://img.shields.io/badge/heroku-3e0094.svg?&style=for-the-badge&logo=heroku&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/netlify-2f3a3c.svg?&style=for-the-badge&logo=netlify&logoColor=4b95b9" height="25"/>
-  <img src="https://img.shields.io/badge/azure-2fabe0.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/AWS-232d3b.svg?&style=for-the-badge&logo=amazonaws&logoColor=f29100" height="25"/>
-  <img src="https://img.shields.io/badge/cPanel-f2672a.svg?&style=for-the-badge&logo=cpanel&logoColor=white" height="25"/>
   
   <p></p>
   <p><b>Tools:&nbsp;&nbsp;</b></p>
