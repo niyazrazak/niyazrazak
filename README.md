@@ -90,13 +90,7 @@
 
   <p></p>
   <p><b>OS&nbsp;&nbsp;</b></p>
-  <img src="https://img.shields.io/badge/manjaro-32c05c.svg?&style=for-the-badge&logo=manjaro&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Kali Linux-060403.svg?&style=for-the-badge&logo=kalilinux&logoColor=3f6ee3" height="25"/>
-  <img src="https://img.shields.io/badge/Parrot OS-000000.svg?&style=for-the-badge&logo=parrotlinux&logoColor=50d2f2" height="25"/>
-  <img src="https://img.shields.io/badge/Endeavour-773cb5.svg?&style=for-the-badge&logo=endeavour&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Deepin-023050.svg?&style=for-the-badge&logo=deepin&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Ubuntu-d24413.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Debian-cc074d.svg?&style=for-the-badge&logo=debian&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Windows-287acc.svg?&style=for-the-badge&logo=windows&logoColor=white" height="25"/>
 </div>
 
