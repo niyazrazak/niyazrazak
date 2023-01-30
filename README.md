@@ -41,15 +41,10 @@
 <div>
   <p><b>Langs:&nbsp;&nbsp;</b></p>
   <img src="https://img.shields.io/badge/javascript-efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/typescript-2f74c0.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/python-356a97.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Go-00a7d0.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Java-00a7d0.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/php-7377ad.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/C-27338c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/C++-0076f7.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/html-f4470b.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Visual Basic-5f3a8a.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" height="25"/>
   
   <p></p>
   <p><b>Frameworks & Libraries:&nbsp;&nbsp;</b></p>
