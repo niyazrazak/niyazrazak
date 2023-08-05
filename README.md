@@ -16,12 +16,11 @@
     <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></img>
     <p><b>📌 ERPNext Developer 🕵</b></p>
     <p><b>📌 Love Coding ❤</b></p>
-    <p><b>📌 Calicut | Kerala 🏰</b></p>
+    <p><b>📌 Doha | Kerala 🏰</b></p>
   </div>
   
   <div align="center">
     <a href="https://linkedin.com/in/niyazrazak" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="35px" alt="niyazrazak - linkedin"/></a>
-    &nbsp;&nbsp;<a href="https://t.me/coderitzme" target="_blank"><img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="35px" alt="coderitzme - telegram"/></a>
 	  &nbsp;&nbsp;<a href="https://instagram.com/niyaz_razak" target="_blank"><img src="https://pnggrid.com/wp-content/uploads/2021/05/Instagram-Logo-1024x982.png" width="35px" alt="niyazrazak - instagram"/></a>
   </div>
 </div>
